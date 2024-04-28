@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khan1git" alt="khan1git" /></a> </p>
 
-- 🔭 I’m currently working on **Billing System**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Nextjs and Typescript**
 
