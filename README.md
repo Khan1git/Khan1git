@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Nextjs and Typescript**
+- 🌱 I’m currently learning **Bug Hunting**
 
-- 👯 I’m looking to collaborate on **MERNS STACK**
+- 👯 I’m looking to collaborate on **MERNS STACK And Nextjs**
 
 - 💬 Ask me about **MERN STACK**
 
