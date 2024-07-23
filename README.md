@@ -11,7 +11,6 @@
 - 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **arifrahman1k7@gmail.com**
-- Temporary Portfolio https://perosonal-portfolio.vercel.app/
 
 
 <h3 align="left">Connect with me:</h3>
