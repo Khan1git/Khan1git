@@ -2,11 +2,11 @@
 <h3 align="center">A passionate MERN STACK DEVELOPER</h3>
 
 
-- 🔭 I’m currently working on **Nextjs**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Bug Hunting**
+- 🌱 I’m currently learning **django**
 
-- 👯 I’m looking to collaborate on **MERNS STACK And Nextjs**
+- 👯 I’m looking to collaborate on **MERNS STACK And Flask**
 
 - 💬 Ask me about **MERN STACK**
 
