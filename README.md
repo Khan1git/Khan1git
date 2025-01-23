@@ -1,79 +1,74 @@
-<h1 align="center">👋 Hi, I'm Arif Rahman</h1>
-<h3 align="center">🚀 MERN Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi there, I'm Arif Rahman! 👋</h1>
+<h3 align="center">💻 MERN Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://next-personal-portfolio-psi.vercel.app/" target="_blank">🌐 Portfolio</a> |
-  <a href="mailto:arifrahman1k7@gmail.com">📧 Contact Me</a> |
+  <a href="https://next-personal-portfolio-psi.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:arifrahman1k7@gmail.com">📧 Email Me</a> •
   <a href="https://www.linkedin.com/in/arif-rahman-84b1a2262" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-### 💻 **About Me**
-- 🔭 I’m currently working on **MERN Stack projects**.  
-- 🌱 Currently learning **Django** to expand my backend skills.  
-- 👯 Looking to collaborate on **MERN Stack** and **Flask** projects.  
-- 💬 Ask me about **MERN Stack development** or **cybersecurity** topics.  
+### 👨‍💻 **About Me**
+- 🔭 **Currently working on:** MERN Stack projects and exploring cybersecurity.  
+- 🌱 **Learning:** Django for backend and expanding my knowledge.  
+- 👯 **Open to Collaborate:** On MERN Stack and Flask projects.  
+- 💬 **Ask Me About:** MERN Stack, web development, or TryHackMe challenges.  
 
 ---
 
-### 🛠️ **Technologies & Tools**
+### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,linux,python,firebase,git" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 🏆 **TryHackMe Achievements**
-<p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/xhexarip1.png" alt="TryHackMe Profile" />
+<p align="center">
+  <a href="https://tryhackme.com/p/xhexarip1" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/xhexarip1.png" alt="TryHackMe Profile" height="70" />
+  </a>
 </p>
 
-**Badges Earned:**
-<p>
-  <img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" width="80" />
-  <img src="https://tryhackme.com/img/badges/linux.svg" alt="Linux Fundamentals" width="80" />
-  <img src="https://tryhackme.com/img/badges/webbed.svg" alt="Web Application Security" width="80" />
-  <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" width="80" />
-  <img src="https://tryhackme.com/img/badges/streak30.svg" alt="30-Day Streak" width="80" />
+#### **Badges Earned:**
+<p align="center">
+  <img src="https://tryhackme.com/img/badges/owasptop10.svg" alt="OWASP Top 10" height="70" />
+  <img src="https://tryhackme.com/img/badges/linux.svg" alt="Linux Fundamentals" height="70" />
+  <img src="https://tryhackme.com/img/badges/webbed.svg" alt="Web Application Security" height="70" />
+  <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="How the Web Works" height="70" />
+  <img src="https://tryhackme.com/img/badges/streak30.svg" alt="30-Day Streak" height="70" />
 </p>
 
 ---
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khan1git&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khan1git&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1git&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan1git&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan1git&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 **Connect With Me**
+### 🌐 **Let's Connect**
 <p align="center">
   <a href="https://www.linkedin.com/in/arif-rahman-84b1a2262" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/arrahman2739" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://fb.com/arif rahman" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  <a href="https://tryhackme.com/p/xhexarip1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=security" alt="TryHackMe" />
   </a>
 </p>
 
 ---
 
-### 🚀 **Let's Build Something Awesome Together!**
+### 🚀 **Let’s Build Something Awesome Together!**
+Feel free to explore my repositories or reach out for collaboration.
 
 ---
