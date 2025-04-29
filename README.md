@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arif Rahman! 👋</h1>
-<h3 align="center">💻 MERN Stack Developer | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 MERN Stack Developer | Nextjs | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://next-personal-portfolio-psi.vercel.app/" target="_blank">🌐 Portfolio</a> •
