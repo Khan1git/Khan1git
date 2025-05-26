@@ -10,10 +10,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🔭 **Currently working on:** MERN Stack projects and exploring cybersecurity.  
-- 🌱 **Learning:** Django for backend and expanding my knowledge.  
-- 👯 **Open to Collaborate:** On MERN Stack and Flask projects.  
-- 💬 **Ask Me About:** MERN Stack, web development, or TryHackMe challenges.  
+- 🔭 **Currently working on:** Nextjs projects .  
+- 🌱 **Learning:** Firebase  for backend and expanding my knowledge.  
+- 👯 **Open to Collaborate:** On MERN Stack and Nextjs project.  
+- 💬 **Ask Me About:** MERN Stack, Nextjs, firease, or TryHackMe challenges.  
 
 ---
 
