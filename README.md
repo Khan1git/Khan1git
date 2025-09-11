@@ -89,11 +89,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://next-personal-portfolio-psi.vercel.app/)  
 
 ---
-
-┌─\[TRANSMISSION\_TERMINATED]─\[\~/elite\_fortress]
-└─\$ echo "Learning continues..."
-Skills Improvement continues...
-└─\$ exit
-Connection to the matrix closed.
-
-
