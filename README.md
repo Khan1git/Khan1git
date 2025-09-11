@@ -39,7 +39,7 @@
 
 ---
 
-## ⚡💀 TECH STACK & TOOLS 💀⚡
+## ⚡ TECH STACK & TOOLS ⚡
 
 **Development Stack:**  
 - Frontend: React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap  
@@ -90,36 +90,10 @@
 
 ---
 
-## 🚀 Active Projects
-
-**Project Hurricane:** Next.js applications with security focus – 80% complete  
-**Project Thunder:** Automated penetration testing framework – 60% complete  
-**Bug Bounty Blitz:** Systematic platform exploitation – 100% complete  
-**Operation Spider:** Zero-day vulnerability reconnaissance – 30% complete  
-**Next.js Mastery:** Advanced fullstack applications – 90% complete  
-
----
-
-## 💀 Final Transmission
-
-> "I don't just code... I architect digital realities"
-
-![Profile Views](https://komarev.com/ghpvc/?username=khan1git&color=ff073a&style=for-the-badge)  
-![GitHub Followers](https://img.shields.io/badge/followers-?color=00ff41&style=for-the-badge&logo=github)
-
-```
-
 ┌─\[TRANSMISSION\_TERMINATED]─\[\~/elite\_fortress]
-└─\$ echo "The legend continues..."
-The legend continues...
+└─\$ echo "Learning continues..."
+Skills Improvement continues...
 └─\$ exit
 Connection to the matrix closed.
 
-```
-```
 
-✅ Everything hacker-style retained, but clean professional text replaces Python snippets.
-✅ Fullstack + Junior Pentester roles highlighted.
-✅ All badges, stats, ASCII art, and animations remain.
-
-```
