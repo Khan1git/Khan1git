@@ -73,17 +73,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GITHUB STATS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khan1git&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1git&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=khan1git&show_icons=true&theme=radical&bg_color=0D1117,000000,330000&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khan1git&layout=compact&theme=radical&bg_color=0D1117,000000,330000&title_color=00FF41&text_color=FFFFFF&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khan1git&hide_border=true&theme=radical&background=0D1117&stroke=00FF41&ring=FF073A&fire=FF073A&currStreakNum=FFFFFF&currStreakLabel=00FF41&sideNums=FFFFFF&sideLabels=00FF41&dates=FFFFFF&border_radius=15" width="90%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khan1git&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -126,11 +122,4 @@ Connection to the matrix closed.
 ✅ Fullstack + Junior Pentester roles highlighted.
 ✅ All badges, stats, ASCII art, and animations remain.
 
-```
-
----
-
-If you want, I can **also create a “dark cyberpunk UI-style” live preview version** that uses **colored blocks, badges, and sections** for GitHub Pages so it looks like an actual hacker terminal dashboard.  
-
-Do you want me to do that next?
 ```
