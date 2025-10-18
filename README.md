@@ -35,7 +35,7 @@
 **🎯 Name:** Arif Rahman  
 **💻 Role:** Fullstack Developer | Junior Web Pentester  
 **🌍 Location:** Global / Remote  
-**🎖️ Achievements:** TryHackMe Elite, KOTH 6 Wins, Multiple Security Badges  
+**🎖️ Achievements:** TryHackMe Elite, KOTH NATIONAL RANK 16, Multiple Security Badges  
 
 ---
 
