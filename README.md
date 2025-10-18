@@ -44,13 +44,13 @@
 **Development Stack:**  
 - Frontend: React.js, Next.js, TypeScript, Tailwind CSS, HTML, CSS, Bootstrap  
 - Backend: Node.js, Express.js, MongoDB, Firebase  
-- Tools: Git, VS Code, Postman, Docker  
+- Tools: Git, VS Code, Postman,  
 
 **Penetration Testing / Security Tools:**  
-- Web: Burp Suite, OWASP ZAP, SQLmap, XSStrike  
-- Network: Nmap, Masscan, Rustscan, Enum4linux  
-- Exploitation: Metasploit, Cobalt Strike, Empire  
-- OSINT: Maltego, theHarvester, Recon-ng, Shodan  
+- Web: Burp Suite, OWASP ZAP, SQLmap, XSStrike, Ffuf, Nikto,   
+- Network: Nmap, Enum4linux  
+- Exploitation: Metasploit,   
+- OSINT:  Shodan  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,html,css,tailwind,bootstrap,git,linux,burp,nmap" />
