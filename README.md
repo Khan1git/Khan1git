@@ -69,6 +69,7 @@
   <img src="https://tryhackme.com/img/badges/owasptop10.svg" height="100" />
   <img src="https://tryhackme.com/img/badges/linux.svg" height="100" />
   <img src="https://tryhackme.com/img/badges/webbed.svg" height="100" />
+  <img src="https://tryhackme.com/img/badges/king.svg" height="100" />
 </p>
 
 ---
