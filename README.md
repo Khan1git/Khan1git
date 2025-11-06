@@ -5,28 +5,6 @@
 
 </div>
 
-```
-
-██████╗ ██████╗ ███████╗██████╗  █████╗ ██████╗ ███████╗    ████████╗ ██████╗     ███████╗███╗   ██╗████████╗███████╗██████╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝    ╚══██╔══╝██╔═══██╗    ██╔════╝████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝██████╔╝█████╗  ██████╔╝███████║██████╔╝█████╗         ██║   ██║   ██║    █████╗  ██╔██╗ ██║   ██║   █████╗  ██████╔╝
-██╔═══╝ ██╔══██╗██╔══╝  ██╔═══╝ ██╔══██║██╔══██╗██╔══╝         ██║   ██║   ██║    ██╔══╝  ██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
-██║     ██║  ██║███████╗██║     ██║  ██║██║  ██║███████╗       ██║   ╚██████╔╝    ███████╗██║ ╚████║   ██║   ███████╗██║  ██║
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝       ╚═╝    ╚═════╝     ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-
-```
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=1500&pause=500&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=SYSTEM+BOOTING...;FULLSTACK+DEVELOPER+%7C+JUNIOR+WEB+PENTESTER;NEXT.JS+%7C+MERN+STACK+DEVELOPER;TRYHACKME+ELITE+%7C+KOTH+CHALLENGER;BUG+BOUNTY+HUNTER+%7C+WEB+SECURITY;THE+MATRIX+IS+LOADED)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
 
 ---
 
