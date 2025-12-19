@@ -11,7 +11,7 @@
 ## 🔥⚡ ELITE OPERATIVE DOSSIER ⚡🔥
 
 **🎯 Name:** Arif Rahman  
-**💻 Role:** Fullstack Developer | Junior Web Pentester  
+**💻 Role:** Fullstack Developer | Web Pentester | Cybersecurity  
 **🌍 Location:** Global / Remote  
 **🎖️ Achievements:** TryHackMe Elite, KOTH NATIONAL RANK 16, Multiple Security Badges  
 
